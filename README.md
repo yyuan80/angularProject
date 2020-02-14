@@ -1,3 +1,6 @@
+This academic project used Angular to create the front-end of a Employee management system.
+
+
 # A5App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
